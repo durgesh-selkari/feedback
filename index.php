@@ -19,9 +19,21 @@
   <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js"></script>
 
-  
+  <link rel="stylesheet" type="text/css" href="allverb.css">
+  <style type="text/css">
     
-   
+    #div1{
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  
+}
+
+
+  </style>
+  <style type="text/css">
+
+    
+
+  </style>
   </head> 
 
   <body> 
@@ -29,17 +41,17 @@
 
 <header class="text-gray-700 body-font">
   <div class="container mx-auto flex flex-wrap p-5 flex-col md:flex-row items-center">
-    <a class="flex title-font font-medium items-center text-gray-900 mb-4 md:mb-0" href="index.htm"style="text-decoration: none;"><img src="logo.jpg"style="width: 50px;height: 45px;">
+    <a class="flex title-font font-medium items-center text-gray-900 mb-4 md:mb-0" href="index.php"style="text-decoration: none;"><img src="logo.jpg"style="width: 50px;height: 45px;">
      <!-- <svg xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-10 h-10 text-white p-2 bg-indigo-500 rounded-full" viewBox="0 0 24 24">
         <path d="M12 2L2 7l10 5 10-5-10-5zM2 17l10 5 10-5M2 12l10 5 10-5"></path>
       </svg>-->
       <span class="ml-3 text-xl"style="font-weight: bold;">Next Govt. Job</span>
     </a>
     <nav class="md:mr-auto md:ml-4 md:py-1 md:pl-4 md:border-l md:border-gray-400 flex flex-wrap items-center text-base justify-center">
-      <a class="mr-5 hover:text-gray-900" href="index.htm">Home</a>
-      <a class="mr-5 hover:text-gray-900" href="latest_jobs.htm"target="_blank">Latest Jobs</a>
-      <a class="mr-5 hover:text-gray-900" href="admit_card.htm"target="_blank">Admit Card</a>
-      <a class="mr-5 hover:text-gray-900" href="results.htm"target="_blank">Results</a>
+      <a class="mr-5 hover:text-gray-900" href="index.php">Home</a>
+      <a class="mr-5 hover:text-gray-900" href="latest_jobs.php"target="_blank">Latest Jobs</a>
+      <a class="mr-5 hover:text-gray-900" href="admit_card.php"target="_blank">Admit Card</a>
+      <a class="mr-5 hover:text-gray-900" href="results.php"target="_blank">Results</a>
       <a class="mr-5 hover:text-gray-900" style="color: orange;font-weight: bold;"target="_blank">Hire With Us</a>
       
     </nav>
@@ -81,16 +93,16 @@
     <li><a href="https://www.iocl.com/"style="color:green;font-weight:bold;"target="_blank">IOCL Apprentice Online Form 2020</a></li><br>
     <li><a href="http://uppsc.up.nic.in/"style="color:green;font-weight:bold;"target="_blank">UPPSC APO Mains Online Form</a></li><br>
     <li><a href="https://www.sebi.gov.in/index.html"style="color:green;font-weight:bold;"target="_blank">SEBI Assistant Manager Online Form 2020 </a>Date Extended</li><br>
-    <li><a href="https://rac.gov.in/index.htm?lang=en&id=0"style="color:green;font-weight:bold;"target="_blank">DRDO Scientist B Online Form 2020</a></li><br>
+    <li><a href="https://rac.gov.in/index.php?lang=en&id=0"style="color:green;font-weight:bold;"target="_blank">DRDO Scientist B Online Form 2020</a></li><br>
     <li><a href="http://www.bpsc.bih.nic.in/"style="color:green;font-weight:bold;"target="_blank">BPSC Motor Vehicle Inspector MVI Online Form 2020</a> Date Extended</li><br>
-    <li><a href="https://bceceboard.bihar.gov.in/Citymanagerindex.htm"style="color:green;font-weight:bold;"target="_blank">Bihar City Manager Online Form 2020</a> Date Extended</li><br>
+    <li><a href="https://bceceboard.bihar.gov.in/Citymanagerindex.php"style="color:green;font-weight:bold;"target="_blank">Bihar City Manager Online Form 2020</a> Date Extended</li><br>
     <li><a href="http://www.bpsc.bih.nic.in/"style="color:green;font-weight:bold;"target="_blank">BPSC 65th Mains Online Form 2020</a> Date Extended</li><br>
     <li><a href="http://www.bpsc.bih.nic.in/"style="color:green;font-weight:bold;"target="_blank">BPSC Assistant Engineer Online Form 2020</a> Date Extended</li><br>
     <li><a href="http://www.bpsc.bih.nic.in/"style="color:green;font-weight:bold;"target="_blank">BPSC AE Civil Online Form 2020</a> Date Extended</li><br>
     <li><a href="http://bpsc.bih.nic.in/"style="color:green;font-weight:bold;"target="_blank">BPSC Civil Judge Online Form 2020</a></li><br>
     <li><a href="http://atrexam.upsdc.gov.in/main.aspx"style="color:green;font-weight:bold;"target="_blank">UP 69000 Assistant Teacher District Choice Online Form 2020</a></li><br>
     <li><a href="http://www.ucil.gov.in/job.html"style="color:green;font-weight:bold;"target="_blank">UCIL India Various Post Online Form</a></li><br>
-    <li><a href="http://nclcil.in/HI/page.htm?pid=34#collapse126"style="color:green;font-weight:bold;"target="_blank">NCL Various Post Online Form 2020</a></li><br>
+    <li><a href="http://nclcil.in/HI/page.php?pid=34#collapse126"style="color:green;font-weight:bold;"target="_blank">NCL Various Post Online Form 2020</a></li><br>
     <li><a href="https://uprvunl.org/uprvunl/en/news?Newslistslug=uprvunl-en-public-notice"style="color:green;font-weight:bold;"target="_blank">UPRVUNL Various Post Online Form 2020</a> Date Extended</li><br>
     <li><a href="http://cgvidhansabha.gov.in/hindi_new/recruitment.htm"style="color:green;font-weight:bold;"target="_blank">Chhattisgarh Vidhan Sabha Reporter Online Form 2020</a></li><br>
     <li><a href="https://www.nlcindia.com/new_website/index.htm"style="color:green;font-weight:bold;"target="_blank">NLC Graduate Trainee GET Online Form 2020</a></li><br>
@@ -111,7 +123,7 @@
 
             <p class="leading-relaxed mb-3"></p>
             <div class="flex items-center flex-wrap ">
-              <a class="text-indigo-500 inline-flex items-center md:mb-2 lg:mb-0"style="color:orange;font-weight:bold;"target="_blank"href="latest_jobs.htm">view more
+              <a class="text-indigo-500 inline-flex items-center md:mb-2 lg:mb-0"style="color:orange;font-weight:bold;"target="_blank"href="latest_jobs.php">view more
                 <svg class="w-4 h-4 ml-2" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round">
                   <path d="M5 12h14"></path>
                   <path d="M12 5l7 7-7 7"></path>
@@ -134,6 +146,7 @@
             <br>
                   
 
+
   <ul style="text-decoration: underline;">
 
 
@@ -149,7 +162,7 @@
     <li><a href="https://ssc.nic.in/"style="color:green;font-weight:bold;">SSC Stenographer 2019 Exam Date 2020</a></li><br>
     <li><a href="https://ssc.nic.in/"style="color:green;font-weight:bold;">SSC CGL 2019 Tier II Exam Date 2020</a></li><br>
     <li><a href="https://ssc.nic.in/"style="color:green;font-weight:bold;">SSC Selection Post VIII Exam Date 2020</a></li><br>
-    <li><a href="https://cisfrectt.in/index.htm"style="color:green;font-weight:bold;">CISF Constable Tradesman Written Exam New Date 2020</a></li><br>
+    <li><a href="https://cisfrectt.in/index.php"style="color:green;font-weight:bold;">CISF Constable Tradesman Written Exam New Date 2020</a></li><br>
     <li><a href="https://nchmjee.nta.nic.in/webinfo/public/home.aspx"style="color:green;font-weight:bold;">NTA NCHMJEE Exam Date 2020</a></li><br>
     <li><a href="https://www.cisce.org/"style="color:green;font-weight:bold;">ICSE Board Remaining Exam Time Table 2020</a></li><br>
     <li><a href="http://uppsc.up.nic.in/CandidateHomePage.html"style="color:green;font-weight:bold;">UPPSC RO / ARO 2017 DV Schedule</a></li><br>
@@ -187,14 +200,14 @@
 
   </ul> 
 
-                 
+                   
                   
 
 
                   
             <p class="leading-relaxed mb-3"></p>
             <div class="flex items-center flex-wrap">
-              <a class="text-indigo-500 inline-flex items-center md:mb-2 lg:mb-0" style="color:orange;font-weight:bold;"target="_blank"href="admit_card.htm">view more
+              <a class="text-indigo-500 inline-flex items-center md:mb-2 lg:mb-0" style="color:orange;font-weight:bold;"target="_blank"href="admit_card.php">view more
                 <svg class="w-4 h-4 ml-2" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round">
                   <path d="M5 12h14"></path>
                   <path d="M12 5l7 7-7 7"></path>
@@ -264,7 +277,7 @@
     <li><a href="http://secondary.biharboardonline.com/identity/home/studentregistration"style="color:green;font-weight: bold;"target="_blank">Bihar Board Class 12th Inter Result 2020</a></li><br>
     <li><a href="https://upsc.gov.in/"style="color:green;font-weight: bold;"target="_blank">UPSC CDS I 2020 Result</a></li><br>
     <li><a href="http://mpbse.nic.in/ttable.htm"style="color:green;font-weight: bold;"target="_blank">MP Board Class 9, 11 Result 2020</a></li><br>
-    <li><a href="http://jam.iitk.ac.in/index.htm"style="color:green;font-weight: bold;"target="_blank">IIT JAM 2020 Result</a></li><br>
+    <li><a href="http://jam.iitk.ac.in/index.php"style="color:green;font-weight: bold;"target="_blank">IIT JAM 2020 Result</a></li><br>
     <li><a href="https://www.joinindiannavy.gov.in/"style="color:green;font-weight: bold;"target="_blank">Indian Navy SSR/AA Result 2020</a></li><br>
     <li><a href="https://www.joinindiannavy.gov.in/"style="color:green;font-weight: bold;"target="_blank">Indian Navy MR Result 2020</a></li><br>
     <li><a href="https://ibps.in/"style="color:green;font-weight: bold;"target="_blank">IBPS SO IX Marks 2020</a></li><br>
@@ -298,7 +311,7 @@
 
             <p class="leading-relaxed mb-3"></p>
             <div class="flex items-center flex-wrap ">
-              <a class="text-indigo-500 inline-flex items-center md:mb-2 lg:mb-0" style="color:orange;font-weight:bold;"target="_blank" href="results.htm">view more
+              <a class="text-indigo-500 inline-flex items-center md:mb-2 lg:mb-0" style="color:orange;font-weight:bold;"target="_blank" href="results.php">view more
                 <svg class="w-4 h-4 ml-2" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round">
                   <path d="M5 12h14"></path>
                   <path d="M12 5l7 7-7 7"></path>
@@ -333,7 +346,7 @@
 <footer class="text-gray-700 body-font">
   <div class="container px-5 py-24 mx-auto flex md:items-center lg:items-start md:flex-row md:flex-no-wrap flex-wrap flex-col">
     <div class="w-64 flex-shrink-0 md:mx-0 mx-auto text-center md:text-left">
-      <a class="flex title-font font-medium items-center md:justify-start justify-center text-gray-900" href="index.htm"style="text-decoration: none;"><img src="logo.jpg"style="width: 50px;height: 45px;">
+      <a class="flex title-font font-medium items-center md:justify-start justify-center text-gray-900" href="index.php"style="text-decoration: none;"><img src="logo.jpg"style="width: 50px;height: 45px;">
        <!-- <svg xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-10 h-10 text-white p-2 bg-indigo-500 rounded-full" viewBox="0 0 24 24">
           <path d="M12 2L2 7l10 5 10-5-10-5zM2 17l10 5 10-5M2 12l10 5 10-5"></path>
         </svg>-->
@@ -347,16 +360,16 @@
         <h2 class="title-font font-medium text-gray-900 tracking-widest text-sm mb-3">Next Govt. Job</h2>
         <nav class="list-none mb-10">
           <li>
-            <a class="text-gray-600 hover:text-gray-800"href="index.htm">Home</a>
+            <a class="text-gray-600 hover:text-gray-800"href="index.php">Home</a>
           </li>
           <li>
-            <a class="text-gray-600 hover:text-gray-800"href="latest_jobs.htm"target="_blank">Latest Jobs</a>
+            <a class="text-gray-600 hover:text-gray-800"href="latest_jobs.php"target="_blank">Latest Jobs</a>
           </li>
           <li>
-            <a class="text-gray-600 hover:text-gray-800"href="admit_card.htm"target="_blank">Admit Card</a>
+            <a class="text-gray-600 hover:text-gray-800"href="admit_card.php"target="_blank">Admit Card</a>
           </li>
           <li>
-            <a class="text-gray-600 hover:text-gray-800"href="results.htm"target="_blank">Results</a>
+            <a class="text-gray-600 hover:text-gray-800"href="results.php"target="_blank">Results</a>
           </li>
         </nav>
       </div>
@@ -420,7 +433,7 @@
         <a href="https://twitter.com/knyttneve" rel="noopener noreferrer" class="text-gray-600 ml-1" target="_blank">@knyttneve</a>
       </p>-->
       <span class="inline-flex sm:ml-auto sm:mt-0 mt-2 justify-center sm:justify-start">
-        <a class="text-gray-500" href="https://www.facebook.com/sharer.htm"target="_blank">
+        <a class="text-gray-500" href="https://www.facebook.com/sharer.php"target="_blank">
           <svg fill="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-5 h-5" viewBox="0 0 24 24">
             <path d="M18 2h-3a5 5 0 00-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 011-1h3z"></path>
           </svg>
